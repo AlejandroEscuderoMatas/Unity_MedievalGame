@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b773c519460463caef1513c98aaea8c, type: 3}
+  m_Name: EnemyList
+  m_EditorClassIdentifier: 
+  enemyList:
+  - name: Enemy1
+    strength: 100
+    damage: 10
+  - name: Enemy2
+    strength: 110
+    damage: 15
+  - name: Enemy3
+    strength: 120
+    damage: 20
+  - name: Enemy4
+    strength: 130
+    damage: 20
+  - name: Enemy5
+    strength: 125
+    damage: 25
+  - name: Enemy6
+    strength: 140
+    damage: 30
+  - name: Enemy7
+    strength: 135
+    damage: 35
+  - name: Enemy8
+    strength: 150
+    damage: 30
+  - name: Enemy9
+    strength: 150
+    damage: 30
+  - name: Enemy10
+    strength: 100
+    damage: 10
